@@ -8,7 +8,7 @@
 5. Upgrade pip
 	python3 -m pip install --upgrade pip
 6. Install packages
-	pip install pandas
+	pip install wheel pandas
 7. Launch VS Code
 	code .
 8. Running cells within a notebook requires ipykernel package
