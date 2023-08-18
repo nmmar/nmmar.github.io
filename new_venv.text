@@ -6,9 +6,9 @@
 4. Check that Python runs on env
 	which python3 -> ~/project-folder/.env-<name>/bin/python3 
 5. Upgrade pip
-	python3 -m pip install --upgrade pip
+	python3 -m pip install wheel setuptools pip --upgrade
 6. Install packages
-	pip install wheel pandas
+	pip install pandas
 7. Launch VS Code
 	code .
 8. Running cells within a notebook requires ipykernel package
