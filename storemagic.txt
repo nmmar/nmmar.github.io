@@ -1,0 +1,2 @@
+https://ipython.readthedocs.io/en/stable/config/extensions/storemagic.html
+$HOME/.ipython/profile_default/db/autorestore
