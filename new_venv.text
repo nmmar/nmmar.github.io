@@ -14,3 +14,12 @@
 8. Running cells within a notebook requires ipykernel package
 	Install it in VS Code or
 	pip install ipykernel==6.15.1 
+
+
+Pyenv
+
+0. https://github.com/pyenv/pyenv-virtualenv
+1. project folder: pyenv local 3.11.9 (creates .python-version file)
+2. pyenv virtualenv 3.11.9 .env-<name>
+3. listing virtualenvs: pyenv virtualenvs 
+4. pyenv activate .env-<name> / pyenv deactivate
