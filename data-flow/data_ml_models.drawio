@@ -1,0 +1,329 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="chM3ovp46uJtdbYT_YE3">
+    <mxGraphModel dx="3439" dy="3007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="irKcT8WEntwoPw7M1IGq-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-684.5" width="310" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="80" width="300" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry y="-620" width="830" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-58" target="irKcT8WEntwoPw7M1IGq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-58" target="irKcT8WEntwoPw7M1IGq-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="70" />
+              <mxPoint x="110" y="70" />
+              <mxPoint x="110" y="60" />
+              <mxPoint x="-175" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-137" value="address_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-136">
+          <mxGeometry x="0.4575" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;textShadow=1;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-280" width="260" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-10" width="574" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1040" width="880" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="260" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="80" width="300" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-11" value="&lt;div&gt;&lt;b&gt;PUB_WAREHOUSE_SALES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;All sales and shipments. Online, brick store and wholesale:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;product group&lt;/div&gt;&lt;/div&gt;&lt;div&gt;product name&lt;/div&gt;&lt;div&gt;prices&lt;/div&gt;&lt;div&gt;sales channel&amp;nbsp;&lt;/div&gt;&lt;div&gt;shop name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Navision Warehouse management&lt;/div&gt;" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="100" width="210" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-16" target="irKcT8WEntwoPw7M1IGq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-19" value="tac" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-18">
+          <mxGeometry x="0.0975" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.48;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-16" target="irKcT8WEntwoPw7M1IGq-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-33" value="IMSI&lt;div&gt;MSISDN&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-32">
+          <mxGeometry x="0.2046" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-16" value="&lt;div&gt;&lt;b&gt;DIM_TAC&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Registered mobile devices to a SIM:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;IMSI&lt;/div&gt;&lt;div&gt;IMEI&lt;/div&gt;&lt;div&gt;MSISDN&lt;/div&gt;&lt;div&gt;TAC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: ADM, Ericsson&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="300" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-17" value="&lt;div&gt;&lt;b&gt;DIM_ADM_DEVICES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Device attributes:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;model name&lt;/div&gt;&lt;div&gt;dimensions&lt;/div&gt;&lt;div&gt;resolution&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: ADM, Ericsson&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="511" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389.99999999999955" y="220" as="sourcePoint" />
+            <mxPoint x="554.9999999999995" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-6" value="dna_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-5">
+          <mxGeometry x="0.0282" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.812;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-15" value="dna_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-14">
+          <mxGeometry x="0.4089" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="56" />
+              <mxPoint x="890" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-57" value="dna_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-56">
+          <mxGeometry x="0.1304" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-76" value="dna_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-75">
+          <mxGeometry x="0.1637" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.595;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-220" y="-10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="11" />
+              <mxPoint x="-222" y="11" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-120" value="dna_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-119">
+          <mxGeometry x="-0.5154" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-122" value="dna_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-121">
+          <mxGeometry x="0.4412" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.148;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-126" value="dna_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-125">
+          <mxGeometry x="0.0143" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-1" target="irKcT8WEntwoPw7M1IGq-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-135" value="address_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-134">
+          <mxGeometry x="0.0072" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-1" value="&lt;div&gt;&lt;b&gt;DIM_CUSTOMERS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;B2C customer details:&lt;div&gt;&lt;div&gt;dna_id (hash from ssn)&lt;/div&gt;&lt;div&gt;name&amp;nbsp;&lt;/div&gt;&lt;div&gt;address&lt;/div&gt;&lt;div&gt;gender&lt;/div&gt;&lt;div&gt;age&lt;/div&gt;&lt;div&gt;customership status&lt;/div&gt;&lt;div&gt;marketing permissions&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-2" target="irKcT8WEntwoPw7M1IGq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-47" value="contract_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-46">
+          <mxGeometry x="0.0235" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-2" target="irKcT8WEntwoPw7M1IGq-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="310" />
+              <mxPoint x="433" y="310" />
+              <mxPoint x="433" y="380" />
+              <mxPoint x="235" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-63" value="msisdn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-62">
+          <mxGeometry x="0.1055" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-2" value="&lt;div&gt;&lt;b&gt;PUB_PRODUCTS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;All contracts and open orders:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;product information&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;sale date&lt;/div&gt;&lt;div&gt;start and end dates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All active contracts&lt;/div&gt;&lt;div&gt;Churned contracts&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Visio, Qvantel&lt;/div&gt;" style="rounded=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-4" value="&lt;div&gt;&lt;b&gt;PUB_CAMPAIGNS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Campaign product dim for contr&lt;span style=&quot;background-color: initial;&quot;&gt;acts:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;campaign name&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;length&lt;/div&gt;&lt;div&gt;pricing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Fixed term contract details&lt;/div&gt;&lt;div&gt;campaign pricing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Visio, Qvantel BSS&lt;/div&gt;" style="rounded=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-28" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Product groups:&lt;/b&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Postpaid&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Broadband&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;DNA TV&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;VAS&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="850" width="180" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-29" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Devices (phones)&lt;/b&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Accessories&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(tablets, watches, ...)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="880" width="197.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-31" value="&lt;div&gt;&lt;b&gt;F_MOBILE_TRAFFIC_X_WEBVISER&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daily/Monthly mobile traffic data events:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;outbound /inbound calls (cnt, minutes)&lt;/div&gt;&lt;div&gt;data transfer up/down&lt;/div&gt;&lt;div&gt;SMS received/sent&lt;/div&gt;&lt;div&gt;VoLTE up/down&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Webviser&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1060" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-34" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;EVENTS_EEA&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Daily mobile subscription data usage&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;data:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Upload/Download by video/audio/social&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Ericsson&lt;/div&gt;" style="rounded=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;whiteSpace=wrap;dashed=1;dashPattern=12 12;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1060" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-37" value="&lt;div&gt;&lt;b&gt;DIM_PEKA_ADDRESS_COVERAGE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mobile address coverage:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;different frequencies&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;different technologies&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Check if address has 5G availibility&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: PEKA&lt;/div&gt;" style="rounded=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1060" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-40" value="Mobile network data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="337" y="1260" width="216" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-49" value="&lt;div&gt;&lt;b&gt;PROFILE_FAMILY&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Model gives probability that address is a child family household:&lt;/div&gt;&lt;div&gt;dna_id&lt;/div&gt;&lt;div&gt;address_id&lt;/div&gt;&lt;div&gt;score&lt;/div&gt;&lt;div&gt;decile&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="55" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-50" value="&lt;div&gt;&lt;b&gt;PROFILE_LANSEERAUSHAUKKA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Customers who are most likely to read emails and click links leading to dna.fi about go to market campaigns:&lt;br&gt;&lt;/div&gt;&lt;div&gt;dna_id&lt;/div&gt;&lt;div&gt;score&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="240" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-51" value="&lt;div&gt;&lt;b&gt;PROFILE_DEVICE_MODEL_&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PREDICTIONS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="609" width="210" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-52" value="&lt;div&gt;&lt;b&gt;PROFILE_DEVICE_PROPENSITIES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;Trained from tables:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;dim_adm_devices&lt;/div&gt;&lt;div style=&quot;&quot;&gt;dim_id_map&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;pub_products&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;pub_products_offerings&lt;/div&gt;&lt;div&gt;pub_warehouse_sales&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;events_eea&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pub_events_web&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;events&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;pub_sibbe_deliveries&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;dim_qvantel_invoice_details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;dim_visio_invoice&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="670" width="210" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-54" value="ML MODELS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1207.5" y="10" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-41" value="Customer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-64" value="&lt;div&gt;&lt;b&gt;PUB_CUSTOMERSHIP_METRICS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;B2C customer metrics:&lt;div&gt;Monthly billing&lt;/div&gt;&lt;div&gt;Customership length&lt;/div&gt;&lt;div&gt;by month and product group&lt;/div&gt;" style="rounded=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-240" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-65" value="&lt;div&gt;&lt;b&gt;F_INVOICE_ITEM_VISIO (snflk)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DIM_VISIO_INVOICE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Visio invoic&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bb%26gt%3BDIM_CUSTOMERS%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3BB2C%20customer%20details%3A%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3Bdna_id%20(hash%20from%20ssn)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bname%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Baddress%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bgender%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bage%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bcustomership%20status%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bmarketing%20permissions%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3Balign%3Dcenter%3BwhiteSpace%3Dwrap%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%2210%22%20width%3D%22220%22%20height%3D%22201%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;es:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Billing item rows and their amounts&lt;/div&gt;&lt;div&gt;Product identifiers&lt;/div&gt;&lt;div&gt;Contract identifiers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Source system: Visio&lt;/div&gt;" style="rounded=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-590" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-69" value="&lt;div&gt;&lt;b&gt;F_INVOICE_ITEM_QVANTEL (snflk)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DIM_QVANTEL_INVOICE_DETAILS&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Qvantel invoic&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bb%26gt%3BDIM_CUSTOMERS%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3BB2C%20customer%20details%3A%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3Bdna_id%20(hash%20from%20ssn)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bname%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Baddress%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bgender%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bage%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bcustomership%20status%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bmarketing%20permissions%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3Balign%3Dcenter%3BwhiteSpace%3Dwrap%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%2210%22%20width%3D%22220%22%20height%3D%22201%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;es:&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Billing item rows and their amounts&lt;/div&gt;&lt;div&gt;Product identifiers&lt;/div&gt;&lt;div&gt;Contract identifiers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Qvantel&lt;/div&gt;" style="rounded=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-590" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-77" value="Billing details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="347" y="-370" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-85" value="&lt;h1 style=&quot;text-align: right; margin-top: 0px; font-size: 18px;&quot;&gt;Tables for ML-models&lt;/h1&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;DW sources:&lt;/p&gt;&lt;p style=&quot;font-size: 18px;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;Redshift&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Snowflake -&amp;gt; BigQuery&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;&quot;&gt;Notes:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;DNA TV data omitted (events, etc.)&lt;/li&gt;&lt;li style=&quot;&quot;&gt;NPS Survey data omitted&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Times New Roman;fontStyle=0;fontSize=18;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;perimeterSpacing=2;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="256" y="-970" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-86" value="&lt;div&gt;&lt;b&gt;DIM_RUUTUTIETOKANTA_2020&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;DIM_RUUTUTIETOKANTA_2023&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Statistics Finland&#39;s coordinate based statistical data calculated by 250 x 250 map grid:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Education level&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Income level&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Children&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Housing type&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;Source system: Statistics Finland&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap; background-color: initial;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bb%26gt%3BDIM_CUSTOMERS%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3BB2C%20customer%20details%3A%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3Bdna_id%20(hash%20from%20ssn)%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bname%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Baddress%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bgender%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bage%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bcustomership%20status%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3Bmarketing%20permissions%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%2382b366%3Balign%3Dcenter%3BwhiteSpace%3Dwrap%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22340%22%20y%3D%2210%22%20width%3D%22220%22%20height%3D%22201%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGr&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;whiteSpace=wrap;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="100" width="260" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-87" value="&lt;div&gt;&lt;b&gt;DIM_SYKE_SOCIAL_STRUCTURE&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Social structure data:&lt;/div&gt;&lt;div&gt;Urban/Rural areas&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Finnish Environmental Institute&lt;/div&gt;" style="rounded=0;html=1;align=center;whiteSpace=wrap;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="359" width="260" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-89" value="External data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-290" y="850" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-91" value="&lt;div&gt;&lt;b&gt;PROFILE_TARJOUSHAUKKA&lt;/b&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="240" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-93" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="-1140" width="300" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-95" value="&lt;div&gt;&lt;b&gt;F_CONTACT_CENTER_SESSION&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;_TRANSCRIPT&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;_METRICS&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Customer service emails and chats&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Source system: Genesys&amp;nbsp;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-366.5" y="-1091" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-96" value="&lt;div&gt;&lt;b&gt;CALL_TRANSCRIPTS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CALLS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Inbound and outbound&amp;nbsp;&lt;/div&gt;&lt;div&gt;customer service and CC calls&lt;/div&gt;&lt;div&gt;Transcripts&lt;/div&gt;&lt;div&gt;Call metadata&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Source system: Feelingstream&lt;/div&gt;" style="rounded=0;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-366.5" y="-860" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-98" value="Customer contacts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-308.25" y="-109" width="116.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-99" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-1055" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-100" value="&lt;b&gt;SECURITY_PRODUCT_SALES&lt;/b&gt;&lt;div&gt;&lt;b&gt;_MODEL&lt;/b&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="420" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-101" value="&lt;b&gt;EMAIL_IMPACT_MODEL&lt;/b&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="605" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-102" value="&lt;b&gt;COMPETITOR_MODEL&lt;/b&gt;&lt;div&gt;&lt;b&gt;COMPETITOR_MODEL_NLP&lt;/b&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="55" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-103" value="&lt;b&gt;SPORT_TV_BUYERS&lt;/b&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="790" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-105" value="&lt;div&gt;&lt;b&gt;CALL_CLASSIFICATION&lt;/b&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="420" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-104" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt;" style="rounded=0;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="910" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-106" value="&lt;div&gt;&lt;b&gt;PUB_PRODUCTS_OFFERINGS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Product attributes:&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;model name&lt;/div&gt;&lt;div&gt;variant details&lt;/div&gt;&lt;div&gt;prices&lt;/div&gt;&lt;div&gt;timestamps&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: EPC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="700" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-620" width="300" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-111" value="Customer marketing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-638.25" y="-109" width="116.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-112" value="&lt;div&gt;&lt;b&gt;PUB_SIBBE_DELIVERIES&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;SIBBE customer deliveries&amp;nbsp;&lt;/div&gt;&lt;div&gt;and contacts:&lt;/div&gt;&lt;div&gt;&lt;div&gt;Emails&lt;/div&gt;&lt;/div&gt;&lt;div&gt;SMS&lt;/div&gt;&lt;div&gt;Suorakirje&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Sibbe Adobe Campaign&lt;/div&gt;" style="rounded=0;html=1;fillColor=#e6d0de;strokeColor=#996185;align=center;whiteSpace=wrap;strokeWidth=2;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-470" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-115" value="&lt;div&gt;&lt;b&gt;EVENTS_OMADNA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Active OmaDNA self-service app users and events&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Source system: OmaDNA app&lt;/div&gt;" style="rounded=0;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-366.5" y="-630" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-116" value="&lt;div&gt;&lt;b&gt;PUB_EVENTS_WEB&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;EVENTS&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;dna.fi web event data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: dna.fi SnowPlow&lt;/div&gt;" style="rounded=0;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-366.5" y="-400" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="irKcT8WEntwoPw7M1IGq-124" target="irKcT8WEntwoPw7M1IGq-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-141" value="duid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="irKcT8WEntwoPw7M1IGq-140">
+          <mxGeometry x="0.0704" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-124" value="&lt;div&gt;&lt;b&gt;DIM_ID_MAP&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Identifiers for dna_id,&amp;nbsp;&lt;/div&gt;&lt;div&gt;customer_codes,&lt;/div&gt;&lt;div&gt;DNA TV extref,&amp;nbsp;&lt;/div&gt;&lt;div&gt;dna.fi web event&#39;s DUID&#39;s&lt;/div&gt;" style="rounded=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-240" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-127" value="&lt;b&gt;AVL_ADDRESSES&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mobile and Fixed broadband availibility data for an address&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bb%26gt%3BF_INVOICE_ITEM_QVANTEL%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bb%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3BQvantel%20invoic%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20text-wrap%3A%20nowrap%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%2526lt%253Bdiv%2526gt%253B%2526lt%253Bb%2526gt%253BDIM_CUSTOMERS%2526lt%253B%252Fb%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253B%2526lt%253Bbr%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253BB2C%2520customer%2520details%253A%2526lt%253Bdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bdna_id%2520(hash%2520from%2520ssn)%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bname%2526amp%253Bnbsp%253B%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Baddress%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bgender%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bage%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bcustomership%2520status%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bmarketing%2520permissions%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253B%2522%2520style%253D%2522rounded%253D0%253Bhtml%253D1%253BfillColor%253D%2523d5e8d4%253BstrokeColor%253D%252382b366%253Balign%253Dcenter%253BwhiteSpace%253Dwrap%253BstrokeWidth%253D2%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522340%2522%2520y%253D%252210%2522%2520width%253D%2522220%2522%2520height%253D%2522201%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3Bes%3A%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BBilling%20item%20rows%20and%20their%20amounts%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BProduct%20identifiers%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BContract%20identifiers%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BSource%20system%3A%20Qvantel%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3Bhtml%3D1%3BfillColor%3D%23f8cecc%3BstrokeColor%3D%23b85450%3Balign%3Dcenter%3BwhiteSpace%3Dwrap%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22460%22%20y%3D%22-590%22%20width%3D%22220%22%20height%3D%22201%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Collector&lt;/div&gt;" style="rounded=0;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-614.5" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-128" value="&lt;b&gt;AVAILABILITY_POTENTIAL&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Combined and enriched address availability table:&lt;/div&gt;&lt;div&gt;FWA availability for own and SYV network&lt;/div&gt;&lt;div&gt;Calculated households and household buildings&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bdiv%26gt%3B%26lt%3Bb%26gt%3BF_INVOICE_ITEM_QVANTEL%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bb%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fb%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bdiv%26gt%3BQvantel%20invoic%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%2C%200%2C%200%2C%200)%3B%20font-family%3A%20monospace%3B%20font-size%3A%200px%3B%20text-align%3A%20start%3B%20text-wrap%3A%20nowrap%3B%20background-color%3A%20initial%3B%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%2526lt%253Bdiv%2526gt%253B%2526lt%253Bb%2526gt%253BDIM_CUSTOMERS%2526lt%253B%252Fb%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253B%2526lt%253Bbr%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253BB2C%2520customer%2520details%253A%2526lt%253Bdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bdna_id%2520(hash%2520from%2520ssn)%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bname%2526amp%253Bnbsp%253B%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Baddress%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bgender%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bage%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bcustomership%2520status%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253Bdiv%2526gt%253Bmarketing%2520permissions%2526lt%253B%252Fdiv%2526gt%253B%2526lt%253B%252Fdiv%2526gt%253B%2522%2520style%253D%2522rounded%253D0%253Bhtml%253D1%253BfillColor%253D%2523d5e8d4%253BstrokeColor%253D%252382b366%253Balign%253Dcenter%253BwhiteSpace%253Dwrap%253BstrokeWidth%253D2%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522340%2522%2520y%253D%252210%2522%2520width%253D%2522220%2522%2520height%253D%2522201%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20initial%3B%26quot%3B%26gt%3Bes%3A%26lt%3B%2Fspan%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BBilling%20item%20rows%20and%20their%20amounts%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BProduct%20identifiers%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BContract%20identifiers%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3BSource%20system%3A%20Qvantel%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3Bhtml%3D1%3BfillColor%3D%23f8cecc%3BstrokeColor%3D%23b85450%3Balign%3Dcenter%3BwhiteSpace%3Dwrap%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22460%22%20y%3D%22-590%22%20width%3D%22220%22%20height%3D%22201%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Source system: Collector&lt;/div&gt;" style="rounded=0;html=1;fillColor=#f9f7ed;strokeColor=#36393d;align=center;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-385.5" width="220" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-130" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Broadband&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-133.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-138" value="&lt;div&gt;&lt;b&gt;DIM_RUUTUTIETOKANTA_DNA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Some DNA specific aggregates on the same map grid level:&lt;/div&gt;&lt;div&gt;Postpaid penetration&lt;/div&gt;&lt;div&gt;Mobile BB penetration&lt;/div&gt;&lt;div&gt;Avg phone age&lt;/div&gt;&lt;div&gt;Avg billing&lt;/div&gt;&lt;div&gt;Avg customership length&lt;/div&gt;&lt;div&gt;Data usage&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: start; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;align=center;whiteSpace=wrap;strokeWidth=2;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="609" width="260" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="irKcT8WEntwoPw7M1IGq-147" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Device&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;NBO&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="609" width="50" height="291" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
