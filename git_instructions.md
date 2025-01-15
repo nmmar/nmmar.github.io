@@ -184,3 +184,13 @@ You can define aliases for your commonly used or complicated and hard to remembe
 ```
 git config --global alias.'force-push'='push --force-with-lease'
 ```
+
+# Other
+
+Add a submodule, use:
+
+`git submodule add <url> <name>`
+
+Remove path from the index with:
+
+`git rm --cached <name>`
